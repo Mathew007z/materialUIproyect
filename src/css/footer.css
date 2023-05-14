@@ -1,0 +1,11 @@
+.containerFooter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.listaContactos{
+    list-style: none;
+    padding-bottom: 5px;
+}
